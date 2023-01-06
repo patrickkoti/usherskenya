@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(250, 35, 185, 0.6);
+  background: rgba(204, 168, 8, 0.6);
   border-bottom: 1px solid rgba(12, 11, 9, 0.6);
   transition: all 0.5s;
   z-index: 997;
@@ -169,7 +169,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header.header-scrolled {
   top: 0;
-  background: rgba(250, 35, 185, 0.85);
+  background: rgba(204, 168, 8, 0.85);
   border-bottom: 1px solid #37332a;
 }
 #header .logo {
@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 99;
   opacity: 0;
   visibility: hidden;
-  background: #d6099c;
+  background: #cca808;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
   transition: 0.3s;
   border-radius: 4px;
